@@ -9,5 +9,6 @@
 |BFS|242|Convert Binary Tree to Linked Lists by Depth|Easy|convert array into link in 69|
 |BFS|137|Clone Graph|Medium|Use HashMap to track old nodes and new nodes|
 |BFS|120|Word Ladder|Hard|Implicit graph, convert the words map into a graph|
+|BFS|433|Number of Islands|Easy|Iterate every cell on the map, using another map to track visited status|
 
  
