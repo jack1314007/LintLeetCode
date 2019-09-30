@@ -10,6 +10,9 @@
 |BFS|137|Clone Graph|Medium|Use HashMap to track old nodes and new nodes|
 |BFS|120|Word Ladder|Hard|Implicit graph, convert the words map into a graph|
 |BFS|433|Number of Islands|Easy|Iterate every cell on the map, using another map to track visited status|
-|BFS|611|Knight Shortest Path|Medium|directionXY arrays|
+|BFS|611|Knight Shortest Path|Medium|directionXY arrays (8 directions)|
+|BFS|127|Topological Sorting|Medium|construct indgree array|
+|BFS|615|Course Schedule|Medium| construct edge and indgree presentation|
+|BFS|616|Course Schedule II|Medium| Same as 615|
 
  
