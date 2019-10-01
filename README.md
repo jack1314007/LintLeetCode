@@ -14,5 +14,7 @@
 |BFS|127|Topological Sorting|Medium|construct indgree array|
 |BFS|615|Course Schedule|Medium| construct edge and indgree presentation|
 |BFS|616|Course Schedule II|Medium| Same as 615|
+|BFS|892|Alien Dictionary|Hard|toplogcal sorting|
+|BFS|605|Sequence Reconstruction|Medium|toplogcal sorting|
 
  
